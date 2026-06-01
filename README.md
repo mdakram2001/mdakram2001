@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-🎓 MCA Student at **Aligarh Muslim University**
+🎓 Computer Science Student at **Aligarh Muslim University**
 🤖 Passionate about **Generative AI, AI Agents, and LLM Applications**
 🧠 Skilled in building **RAG pipelines, Multi-Agent Systems & AI Automation**
 ⚡ Love solving real-world problems using AI
