@@ -96,9 +96,9 @@
 ## 📊 LeetCode Stats
 <p align="center">
   
-  <img src="https://leetcard.jacoblin.cool/akram2001?theme=dark&font=ABeeZee&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/akram2001?theme=dark&font=ABeeZee&ext=heatmap" width="450" height="290"/>
   
-  <img src="https://leetcard.jacoblin.cool/akram2001?theme=dark&font=ABeeZee&ext=activity"/>
+  <img src="https://leetcard.jacoblin.cool/akram2001?theme=dark&font=ABeeZee&ext=activity" width="450" height="290"/>
 
 ---
 
