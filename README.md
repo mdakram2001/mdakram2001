@@ -93,6 +93,15 @@
 
 ---
 
+## 📊 LeetCode Stats
+<p align="center">
+  
+  <img src="https://leetcard.jacoblin.cool/akram2001?theme=dark&font=ABeeZee&ext=heatmap"/>
+  
+  <img src="https://leetcard.jacoblin.cool/akram2001?theme=dark&font=ABeeZee&ext=activity"/>
+
+---
+
 ## 🧠 Currently Learning
 
 * 🕸️ AI Agentic Workflows
