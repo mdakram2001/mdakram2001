@@ -92,6 +92,10 @@
 
 ---
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdakram2001&theme=react-dark)
+
+---
+
 ## 📊 LeetCode Stats
 <p align="center">
   
